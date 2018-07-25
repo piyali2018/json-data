@@ -1,0 +1,13 @@
+{
+  "accounts_summary": [
+      {"userId": "1", "account-type": "Savings","account-no": "111111","balance": "1000"},
+      {"userId": "2", "account-type": "Savings","account-no": "222222","balance": "2000"},
+      {"userId": "1", "account-type": "Chequing","account-no": "333333","balance": "3000"},
+      {"userId": "1", "account-type": "MasterCard","account-no": "444444","balance": "2000"},
+      {"userId": "2", "account-type": "Savings","account-no": "555555","balance": "3000"},
+      {"userId": "2", "account-type": "Chequing","account-no": "666666","balance": "5000"},
+      {"userId": "2", "account-type": "MasterCard","account-no": "77777","balance": "3000"},
+      {"userId": "2", "account-type": "Visa","account-no": "888888","balance": "6000"}
+    ]
+
+}
