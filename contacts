@@ -1,9 +1,9 @@
 {
   "contacts": [
-      {"area": "Banking", "number": "1(647)5745273"},
-      {"area": "Credit Cards", "number": "1(647)5745273"},
-      {"area": "Insurance", "number": "1(647)5745273"},
-      {"area": "Securities", "number": "1(647)5745273"}
+      {"area": "Banking", "number": "100000"},
+      {"area": "Credit Cards", "number": "100000"},
+      {"area": "Insurance", "number": "100000"},
+      {"area": "Securities", "number": "100000"}
     ]
 }
 
