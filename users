@@ -1,7 +1,9 @@
 {
   "users": [
-      {"userId": "1", "userName": "piyali","password":"password"},
-      {"userId": "2", "userName": "piu","password":"pass"}
+      {"userId": "1", "userName": "piyali","password":"password","firstName":"Piyali","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"Y"},
+      {"userId": "2", "userName": "piu","password":"pass","firstName":"Piu","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"Y"},
+      {"userId": "3", "userName": "upa","password":"pass","firstName":"Upa","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"N"},
+      {"userId": "4", "userName": "rik","password":"pass","firstName":"Rik","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"N"}
     ]
 
 }
