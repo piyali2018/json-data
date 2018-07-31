@@ -1,10 +1,1 @@
-{
-  "users": [
-      {"userId": "1", "userName": "piyali","password":"password","firstName":"Piyali","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"Y"},
-      {"userId": "2", "userName": "piu","password":"pass","firstName":"Piu","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"Y"},
-      {"userId": "3", "userName": "upa","password":"pass","firstName":"Upa","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"N"},
-      {"userId": "4", "userName": "rik","password":"pass","firstName":"Rik","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"N"},
-  {"userId": "5", "userName": "rik1","password":"pass","firstName":"Rik1","lastName":"Saha","postalCode":"M6P4B1","activateMobileBank":"N"}
-    ]
-
-}
+{"users":[{"postalCode":"M6P4B1","password":"password","lastName":"Saha","userName":"piyali","userId":"1","firstName":"Piyali","activateMobileBank":"Y"},{"postalCode":"M6P4B1","password":"pass","lastName":"Saha","userName":"piu","userId":"2","firstName":"Piu","activateMobileBank":"Y"},{"postalCode":"M6P4B1","password":"pass","lastName":"Saha","userName":"rik","userId":"4","firstName":"Rik","activateMobileBank":"N"},{"postalCode":"M6P4B1","password":"pass","lastName":"Saha","userName":"rik1","userId":"5","firstName":"Rik1","activateMobileBank":"N"},{"postalCode":"m6p4b1","password":"pass","lastName":"Saha","userName":"upa","userId":"3","firstName":"upa","activateMobileBank":"Y"}]}
