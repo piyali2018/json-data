@@ -2,43 +2,43 @@
   "users" : [
     {
       "postalCode" : "M6P4B1",
+      "email" : "piusaha.1989@gmail.com",
       "password" : "password",
       "lastName" : "Saha",
       "userName" : "piyali",
       "userId" : "1",
       "firstName" : "Piyali",
-      "activateMobileBank" : "Y",
-      "email" : "piusaha.1989@gmail.com"
+      "activateMobileBank" : "Y"
     },
     {
       "postalCode" : "M6P4B1",
+      "email" : "piusaha.1989@gmail.com",
       "password" : "pass",
       "lastName" : "Saha",
       "userName" : "piu",
       "userId" : "2",
       "firstName" : "Piu",
-      "activateMobileBank" : "Y",
-      "email" : "piusaha.1989@gmail.com"
+      "activateMobileBank" : "Y"
     },
     {
       "postalCode" : "M6P4B1",
+      "email" : "piusaha.1989@gmail.com",
       "password" : "pass",
       "lastName" : "Saha",
       "userName" : "rik1",
       "userId" : "5",
       "firstName" : "Rik1",
-      "activateMobileBank" : "N",
-      "email" : "piusaha.1989@gmail.com"
+      "activateMobileBank" : "N"
     },
     {
       "postalCode" : "m6p4b1",
+      "email" : "piusaha.1989@gmail.com",
       "password" : "pass",
       "lastName" : "Saha",
       "userName" : "rik",
       "userId" : "4",
       "firstName" : "rik",
-      "activateMobileBank" : "N",
-      "email" : "piusaha.1989@gmail.com"
+      "activateMobileBank" : "N"
     },
     {
       "postalCode" : "m6p4b1",
@@ -47,8 +47,7 @@
       "userName" : "upa",
       "userId" : "3",
       "firstName" : "upa",
-      "activateMobileBank" : "N",
-      "email" : "piusaha.1989@gmail.com"
+      "activateMobileBank" : "Y"
     }
   ]
 }
