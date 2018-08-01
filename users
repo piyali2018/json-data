@@ -38,12 +38,12 @@
     },
     {
       "postalCode" : "m6p4b1",
-      "password" : "pass1",
+      "password" : "pass",
       "lastName" : "saha",
       "userName" : "upa",
       "userId" : "3",
       "firstName" : "upa",
-      "activateMobileBank" : "Y"
+      "activateMobileBank" : "N"
     }
   ]
 }
