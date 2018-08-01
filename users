@@ -32,6 +32,7 @@
     },
     {
       "postalCode" : "m6p4b1",
+      "email" : "piusaha.1989@gmail.com",
       "password" : "pass",
       "lastName" : "saha",
       "userName" : "upa",
@@ -47,7 +48,7 @@
       "userName" : "rik",
       "userId" : "4",
       "firstName" : "rik",
-      "activateMobileBank" : "Y"
+      "activateMobileBank" : "N"
     }
   ]
 }
