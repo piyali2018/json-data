@@ -29,12 +29,12 @@
     },
     {
       "postalCode" : "m6p4b1",
-      "password" : "pass1",
+      "password" : "pass",
       "lastName" : "Saha",
       "userName" : "rik",
       "userId" : "4",
       "firstName" : "rik",
-      "activateMobileBank" : "Y"
+      "activateMobileBank" : "N"
     },
     {
       "postalCode" : "m6p4b1",
@@ -43,7 +43,7 @@
       "userName" : "upa",
       "userId" : "3",
       "firstName" : "upa",
-      "activateMobileBank" : "Y"
+      "activateMobileBank" : "N"
     }
   ]
 }
