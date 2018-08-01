@@ -29,21 +29,21 @@
     },
     {
       "postalCode" : "m6p4b1",
-      "password" : "pass1",
-      "lastName" : "saha",
-      "userName" : "rik",
-      "userId" : "4",
-      "firstName" : "rik",
-      "activateMobileBank" : "N"
-    },
-    {
-      "postalCode" : "m6p4b1",
       "password" : "pass",
       "lastName" : "Saha",
       "userName" : "upa",
       "userId" : "3",
       "firstName" : "upa",
       "activateMobileBank" : "N"
+    },
+    {
+      "postalCode" : "m6p4b1",
+      "password" : "pass1",
+      "lastName" : "Saha",
+      "userName" : "rik",
+      "userId" : "4",
+      "firstName" : "rik",
+      "activateMobileBank" : "Y"
     }
   ]
 }
