@@ -32,22 +32,22 @@
     },
     {
       "postalCode" : "m6p4b1",
-      "email" : "piusaha.1989@gmail.com",
-      "password" : "pass",
-      "lastName" : "Saha",
-      "userName" : "rik",
-      "userId" : "4",
-      "firstName" : "rik",
-      "activateMobileBank" : "N"
-    },
-    {
-      "postalCode" : "m6p4b1",
       "password" : "pass",
       "lastName" : "saha",
       "userName" : "upa",
       "userId" : "3",
       "firstName" : "upa",
       "activateMobileBank" : "N"
+    },
+    {
+      "postalCode" : "m6p4b1",
+      "email" : "piusaha.1989@gmail.com",
+      "password" : "pass",
+      "lastName" : "saha",
+      "userName" : "rik",
+      "userId" : "4",
+      "firstName" : "rik",
+      "activateMobileBank" : "Y"
     }
   ]
 }
