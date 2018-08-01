@@ -35,9 +35,9 @@
       "email" : "piusaha.1989@gmail.com",
       "password" : "pass",
       "lastName" : "saha",
-      "userName" : "upa",
-      "userId" : "3",
-      "firstName" : "upa",
+      "userName" : "rik",
+      "userId" : "4",
+      "firstName" : "rik",
       "activateMobileBank" : "N"
     },
     {
@@ -45,10 +45,10 @@
       "email" : "piusaha.1989@gmail.com",
       "password" : "pass",
       "lastName" : "saha",
-      "userName" : "rik",
-      "userId" : "4",
-      "firstName" : "rik",
-      "activateMobileBank" : "N"
+      "userName" : "upa",
+      "userId" : "3",
+      "firstName" : "upa",
+      "activateMobileBank" : "Y"
     }
   ]
 }
