@@ -15,16 +15,6 @@
       "email" : "piusaha.1989@gmail.com",
       "password" : "pass",
       "lastName" : "Saha",
-      "userName" : "piu",
-      "userId" : "2",
-      "firstName" : "Piu",
-      "activateMobileBank" : "Y"
-    },
-    {
-      "postalCode" : "M6P4B1",
-      "email" : "piusaha.1989@gmail.com",
-      "password" : "pass",
-      "lastName" : "Saha",
       "userName" : "rik1",
       "userId" : "5",
       "firstName" : "Rik1",
@@ -48,6 +38,16 @@
       "userName" : "rik",
       "userId" : "4",
       "firstName" : "rik",
+      "activateMobileBank" : "Y"
+    },
+    {
+      "postalCode" : "m6p4b1",
+      "email" : "piusaha.1989@gmail.com",
+      "password" : "pass1",
+      "lastName" : "saha",
+      "userName" : "piu",
+      "userId" : "2",
+      "firstName" : "Piu",
       "activateMobileBank" : "Y"
     }
   ]
