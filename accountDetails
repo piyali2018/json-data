@@ -304,23 +304,5 @@
       "account-type" : "Visa",
       "transaction_details" : "Tim Hortons"
     }
-  ],
-  "accounts_summary" : [
-    {
-      "transaction_details" : "Self Transfer",
-      "userId" : "2",
-      "amount" : "1000",
-      "account-no" : "222222",
-      "account-type" : "Savings",
-      "dateTime" : "2018-08-07 16:15:02"
-    },
-    {
-      "transaction_details" : "Self Transfer",
-      "userId" : "2",
-      "amount" : "-1000",
-      "account-no" : "555555",
-      "account-type" : "Savings",
-      "dateTime" : "2018-08-07 16:15:02"
-    }
   ]
 }
