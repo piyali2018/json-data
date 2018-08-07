@@ -37,12 +37,6 @@
       "account-type" : "MasterCard"
     },
     {
-      "balance" : 2000,
-      "userId" : "2",
-      "account-no" : "222222",
-      "account-type" : "Savings"
-    },
-    {
       "balance" : 3000,
       "userId" : "2",
       "account-no" : "555555",
@@ -71,6 +65,18 @@
       "userId" : "2",
       "account-no" : "999999",
       "account-type" : "Visa"
+    },
+    {
+      "balance" : 2000,
+      "userId" : "2",
+      "account-no" : "555555",
+      "account-type" : "Savings"
+    },
+    {
+      "balance" : 3000,
+      "userId" : "2",
+      "account-no" : "222222",
+      "account-type" : "Savings"
     }
   ]
 }
