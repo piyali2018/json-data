@@ -43,48 +43,6 @@
       "account-type" : "Visa"
     },
     {
-      "balance" : "1000",
-      "userId" : "1",
-      "account-no" : "111111",
-      "account-type" : "Savings"
-    },
-    {
-      "balance" : "3000",
-      "userId" : "1",
-      "account-no" : "333333",
-      "account-type" : "Chequing"
-    },
-    {
-      "balance" : "2000",
-      "userId" : "1",
-      "account-no" : "444444",
-      "account-type" : "MasterCard"
-    },
-    {
-      "balance" : 6000,
-      "userId" : "2",
-      "account-no" : "888888",
-      "account-type" : "MaterCard"
-    },
-    {
-      "balance" : 9900,
-      "userId" : "2",
-      "account-no" : "666666",
-      "account-type" : "Savings"
-    },
-    {
-      "balance" : 3090,
-      "userId" : "2",
-      "account-no" : "555555",
-      "account-type" : "Savings"
-    },
-    {
-      "balance" : 7010,
-      "userId" : "2",
-      "account-no" : "999999",
-      "account-type" : "Visa"
-    },
-    {
       "balance" : "2890",
       "userId" : "2",
       "account-no" : "222222",
