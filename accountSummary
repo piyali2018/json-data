@@ -31,12 +31,6 @@
       "account-type" : "Savings"
     },
     {
-      "balance" : "3039",
-      "userId" : "2",
-      "account-no" : "555555",
-      "account-type" : "Savings"
-    },
-    {
       "balance" : "6080",
       "userId" : "2",
       "account-no" : "888888",
@@ -49,7 +43,13 @@
       "account-type" : "Savings"
     },
     {
-      "balance" : "5151",
+      "balance" : "3034",
+      "userId" : "2",
+      "account-no" : "555555",
+      "account-type" : "Savings"
+    },
+    {
+      "balance" : "5156",
       "userId" : "2",
       "account-no" : "777777",
       "account-type" : "Visa"
