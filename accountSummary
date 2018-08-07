@@ -43,13 +43,13 @@
       "account-type" : "MaterCard"
     },
     {
-      "balance" : "9860",
+      "balance" : "9850",
       "userId" : "2",
       "account-no" : "666666",
       "account-type" : "Savings"
     },
     {
-      "balance" : "5130",
+      "balance" : "5140",
       "userId" : "2",
       "account-no" : "777777",
       "account-type" : "Visa"
