@@ -53,6 +53,18 @@
       "userId" : "2",
       "account-no" : "222222",
       "account-type" : "Savings"
+    },
+    {
+      "balance" : 2900,
+      "userId" : "2",
+      "account-no" : "555555",
+      "account-type" : "Savings"
+    },
+    {
+      "balance" : 10100,
+      "userId" : "2",
+      "account-no" : "666666",
+      "account-type" : "Savings"
     }
   ]
 }
