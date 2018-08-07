@@ -7,6 +7,18 @@
       "account-type" : "Savings"
     },
     {
+      "balance" : "1000",
+      "userId" : "1",
+      "account-no" : "111111",
+      "account-type" : "Savings"
+    },
+    {
+      "balance" : "3000",
+      "userId" : "1",
+      "account-no" : "333333",
+      "account-type" : "Chequing"
+    },
+    {
       "balance" : "3000",
       "userId" : "1",
       "account-no" : "333333",
@@ -19,33 +31,21 @@
       "account-type" : "MasterCard"
     },
     {
-      "balance" : "5000",
-      "userId" : "2",
-      "account-no" : "666666",
-      "account-type" : "Chequing"
-    },
-    {
-      "balance" : "3000",
-      "userId" : "2",
-      "account-no" : "77777",
+      "balance" : "2000",
+      "userId" : "1",
+      "account-no" : "444444",
       "account-type" : "MasterCard"
-    },
-    {
-      "balance" : "6000",
-      "userId" : "2",
-      "account-no" : "888888",
-      "account-type" : "Visa"
     },
     {
       "balance" : 2000,
       "userId" : "2",
-      "account-no" : "555555",
+      "account-no" : "222222",
       "account-type" : "Savings"
     },
     {
       "balance" : 3000,
       "userId" : "2",
-      "account-no" : "222222",
+      "account-no" : "555555",
       "account-type" : "Savings"
     }
   ]
