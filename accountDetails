@@ -1,100 +1,116 @@
 {
   "accounts_details" : [
     {
-      "dateTime" : "2018-07-26 15:53:49",
+      "transaction_details" : "Multiproduct rebate",
       "userId" : "1",
       "amount" : "4.00",
       "account-no" : "111111",
       "account-type" : "Savings",
-      "transaction_details" : "Multiproduct rebate"
+      "dateTime" : "2018-07-26 15:53:49"
     },
     {
-      "dateTime" : "2018-07-25 11:53:49",
+      "transaction_details" : "Monthly Fee",
       "userId" : "1",
       "amount" : "-4.00",
       "account-no" : "111111",
       "account-type" : "Savings",
-      "transaction_details" : "Monthly Fee"
+      "dateTime" : "2018-07-25 11:53:49"
     },
     {
-      "dateTime" : "2018-07-26 15:30:40",
+      "transaction_details" : "CCB",
       "userId" : "2",
       "amount" : "100.00",
       "account-no" : "222222",
       "account-type" : "Savings",
-      "transaction_details" : "CCB"
+      "dateTime" : "2018-07-26 15:30:40"
     },
     {
-      "dateTime" : "2018-07-25 15:30:40",
+      "transaction_details" : "Multiproduct rebate",
       "userId" : "2",
       "amount" : "5.00",
       "account-no" : "222222",
       "account-type" : "Savings",
-      "transaction_details" : "Multiproduct rebate"
+      "dateTime" : "2018-07-25 15:30:40"
     },
     {
-      "dateTime" : "2018-07-26 15:30:40",
+      "transaction_details" : "Freshco",
       "userId" : "2",
       "amount" : "10.00",
       "account-no" : "222222",
       "account-type" : "Savings",
-      "transaction_details" : "Freshco"
+      "dateTime" : "2018-07-26 15:30:40"
     },
     {
-      "dateTime" : "2018-07-27 15:30:40",
+      "transaction_details" : "No Frills",
       "userId" : "2",
       "amount" : "20.00",
       "account-no" : "222222",
       "account-type" : "Savings",
-      "transaction_details" : "No Frills"
+      "dateTime" : "2018-07-27 15:30:40"
     },
     {
-      "dateTime" : "2018-07-25 15:30:40",
+      "transaction_details" : "Monthly Fee",
       "userId" : "2",
       "amount" : "5.00",
       "account-no" : "222222",
       "account-type" : "Savings",
-      "transaction_details" : "Monthly Fee"
+      "dateTime" : "2018-07-25 15:30:40"
     },
     {
-      "dateTime" : "2018-07-26 15:30:40",
+      "transaction_details" : "CCB",
       "userId" : "2",
       "amount" : "100.00",
       "account-no" : "555555",
       "account-type" : "Savings",
-      "transaction_details" : "CCB"
+      "dateTime" : "2018-07-26 15:30:40"
     },
     {
-      "dateTime" : "2018-08-08 09:55:29",
+      "transaction_details" : "Self Transfer",
       "userId" : "2",
       "amount" : "20",
       "account-no" : "222222",
       "account-type" : "Savings",
-      "transaction_details" : "Self Transfer"
+      "dateTime" : "2018-08-08 09:55:29"
     },
     {
-      "dateTime" : "2018-08-08 09:55:29",
+      "transaction_details" : "Self Transfer",
       "userId" : "2",
       "amount" : "-20",
       "account-no" : "888888",
       "account-type" : "MaterCard",
+      "dateTime" : "2018-08-08 09:55:29"
+    },
+    {
+      "dateTime" : "2018-08-08 10:00:55",
+      "userId" : "2",
+      "amount" : "30",
+      "account-no" : "666666",
+      "account-type" : "Savings",
+      "transaction_details" : "Self Transfer"
+    },
+    {
+      "dateTime" : "2018-08-08 10:00:55",
+      "userId" : "2",
+      "amount" : "-30",
+      "account-no" : "999999",
+      "account-type" : "Visa",
       "transaction_details" : "Self Transfer"
     },
     {
       "transaction_details" : "Self Transfer",
       "userId" : "2",
-      "amount" : "30",
+      "amount" : "40",
       "account-no" : "666666",
       "account-type" : "Savings",
-      "dateTime" : "2018-08-08 10:00:55"
+      "dateTime" : "2018-08-08 10:07:07"
     },
     {
       "transaction_details" : "Self Transfer",
       "userId" : "2",
-      "amount" : "-30",
-      "account-no" : "999999",
+      "amount" : "-40",
+      "account-no" : "777777",
       "account-type" : "Visa",
-      "dateTime" : "2018-08-08 10:00:55"
+      "dateTime" : "2018-08-08 10:07:07"
     }
   ]
 }
