@@ -37,22 +37,22 @@
       "account-type" : "Savings"
     },
     {
-      "balance" : "6100",
-      "userId" : "2",
-      "account-no" : "888888",
-      "account-type" : "MaterCard"
-    },
-    {
       "balance" : "3004",
       "userId" : "2",
       "account-no" : "555555",
       "account-type" : "Savings"
     },
     {
-      "balance" : "2800",
+      "balance" : "2760",
       "userId" : "2",
       "account-no" : "222222",
       "account-type" : "Savings"
+    },
+    {
+      "balance" : "6120",
+      "userId" : "2",
+      "account-no" : "888888",
+      "account-type" : "MaterCard"
     }
   ]
 }
