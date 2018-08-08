@@ -19,18 +19,6 @@
       "account-type" : "MasterCard"
     },
     {
-      "balance" : "9850",
-      "userId" : "2",
-      "account-no" : "666666",
-      "account-type" : "Savings"
-    },
-    {
-      "balance" : "6080",
-      "userId" : "2",
-      "account-no" : "888888",
-      "account-type" : "MaterCard"
-    },
-    {
       "balance" : "2780",
       "userId" : "2",
       "account-no" : "222222",
@@ -53,6 +41,18 @@
       "userId" : "2",
       "account-no" : "999999",
       "account-type" : "Visa"
+    },
+    {
+      "balance" : "9830",
+      "userId" : "2",
+      "account-no" : "666666",
+      "account-type" : "Savings"
+    },
+    {
+      "balance" : "6100",
+      "userId" : "2",
+      "account-no" : "888888",
+      "account-type" : "MaterCard"
     }
   ]
 }
