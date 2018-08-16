@@ -43,12 +43,12 @@
     {
       "postalCode" : "m6p4b1",
       "email" : "piusaha.1989@gmail.com",
-      "password" : "pass1",
+      "password" : "pass",
       "lastName" : "saha",
       "userName" : "upa",
       "userId" : "3",
       "firstName" : "upa",
-      "activateMobileBank" : "N"
+      "activateMobileBank" : "Y"
     }
   ]
 }
